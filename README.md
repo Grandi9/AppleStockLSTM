@@ -22,3 +22,5 @@ This RSME is a good value, considering the abnormal increase in AAPL stock buyin
 
 Visualization of the model Predictions
 ![Screenshot 2020-08-30 at 2 01 37 PM](https://user-images.githubusercontent.com/22790699/91654992-116f7800-eacb-11ea-8a63-6a891de7fded.png)
+
+![Screenshot 2020-08-30 at 2 01 49 PM](https://user-images.githubusercontent.com/22790699/91655020-55fb1380-eacb-11ea-8f89-f6c1481b63f4.png)
