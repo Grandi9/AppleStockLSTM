@@ -8,8 +8,8 @@ LSTM's are useful since we can give relavant weights to the important data in th
 I am using the past 60 days stock price values for the LSTMs.
 
 ## Input Data
-Snapshot of data
-the missing dates are Saturdays, Sundays or Public Holidays
+*Snapshot of data*
+The missing dates are Saturdays, Sundays or Public Holidays
 
 ![Screenshot 2020-08-30 at 2 00 44 PM](https://user-images.githubusercontent.com/22790699/91654888-45966900-eaca-11ea-935d-44f3ab60d9c3.png)
 
@@ -17,10 +17,13 @@ the missing dates are Saturdays, Sundays or Public Holidays
 
 ## Model Prediction
 
-The model's RSME value is 12.25 when the stock prices are in the range of 500+.
+The model's RSME value is **12.25** when the stock prices are in the range of 500+.
 This RSME is a good value, considering the abnormal increase in AAPL stock buying due to COVID
 
-Visualization of the model Predictions
+*Visualization of the model Predictions*
 ![Screenshot 2020-08-30 at 2 01 37 PM](https://user-images.githubusercontent.com/22790699/91654992-116f7800-eacb-11ea-8a63-6a891de7fded.png)
 
 ![Screenshot 2020-08-30 at 2 01 49 PM](https://user-images.githubusercontent.com/22790699/91655020-55fb1380-eacb-11ea-8f89-f6c1481b63f4.png)
+
+
+
