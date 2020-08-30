@@ -12,4 +12,6 @@ I am using the past 60 days stock price.
 Snapshot of data
 the missing dates are Saturdays, Sundays or Public Holidays
 
+
+
 ![Screenshot 2020-08-30 at 2 00 14 PM](https://user-images.githubusercontent.com/22790699/91654797-92c60b00-eac9-11ea-9500-51fa9d5d4d67.png)
