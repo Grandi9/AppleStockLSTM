@@ -19,3 +19,6 @@ the missing dates are Saturdays, Sundays or Public Holidays
 
 The model's RSME value is 12.25 when the stock prices are in the range of 500+.
 This RSME is a good value, considering the abnormal increase in AAPL stock buying due to COVID
+
+Visualization of the model Predictions
+![Screenshot 2020-08-30 at 2 01 37 PM](https://user-images.githubusercontent.com/22790699/91654992-116f7800-eacb-11ea-8a63-6a891de7fded.png)
