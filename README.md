@@ -1,6 +1,9 @@
 # AppleStockLSTM
 Predicting AAPL stock price using LSTM
 
+## Google Collab Link
+https://colab.research.google.com/drive/1G0EKzr_LezsLmpQSxq1RuGE2bbxmyAOB?usp=sharing
+
 ## Introduction
 I am using Recurrent neural network called - LSTM to predict the stock price of AAPL (Apple Inc).
 I am using LSTM since it has Long term price dependencies.
