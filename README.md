@@ -1,7 +1,7 @@
 # AppleStockLSTM
 Predicting AAPL stock price using LSTM
 
-Updated version takes into consedration of Applr stock split - https://investor.apple.com/faq/default.aspx
+Updated version takes into consedration of AAPL stock split - https://investor.apple.com/faq/default.aspx
 
 ## Google Collab Link
 https://colab.research.google.com/drive/1G0EKzr_LezsLmpQSxq1RuGE2bbxmyAOB?usp=sharing
@@ -22,7 +22,7 @@ The missing dates are Saturdays, Sundays or Public Holidays
 
 ## Model Prediction
 
-The model's RSME value is **12.25** when the stock prices are in the range of 500+.
+The model's RSME value is **3.8** when the stock prices are in the range of 100+.
 This RSME is a good value, considering the abnormal increase in AAPL stock buying due to COVID
 
 *Visualization of the model Predictions*
