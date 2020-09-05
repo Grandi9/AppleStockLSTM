@@ -18,7 +18,7 @@ import matplotlib.pyplot as plt
 plt.style.use('fivethirtyeight') #specfic style of the matplot
 
 #get the stock prices and respective dates from yahoo finance
-df = web.DataReader('AAPL', data_source='yahoo', start ='2012-01-01', end='2020-08-30')
+df = web.DataReader('AAPL', data_source='yahoo', start ='2012-01-01', end='2020-09-05')
 
 #show the snapshot of data
 #the missing dates are Saturdays, SUndays or Public Holidays
@@ -74,7 +74,7 @@ x_train, y_train = np.array(x_train), np.array(y_train)
 
 #reshape the data
 #lstm needs data as 3 dimensions and x_train has only 2
-#change x_train = np.reshape(1684, 60, 1)
+
 x_train = np.reshape(x_train, (x_train.shape[0], x_train.shape[1],1))
 x_train.shape
 
@@ -128,7 +128,6 @@ predictions = scaler.inverse_transform(predictions)
 rsme = np.sqrt( np.mean( predictions - y_test)**2)
 rsme
 
-#this rsme value is 12.25 when the stock prices are in the range of 500+
 #this rsme is a good value, considering the abnormal increase in AAPL due to COVID 
 
 #plotting the data
@@ -150,7 +149,7 @@ plt.show()
 valid
 
 #get the quote
-apple_quote = web.DataReader('AAPL', data_source='yahoo', start='2012-01-01', end='2020-08-28')
+apple_quote = web.DataReader('AAPL', data_source='yahoo', start='2012-01-01', end='2020-09-03')
 
 #create a new dataframe
 new_df = apple_quote.filter(['Close'])
@@ -181,6 +180,6 @@ print(pred_price)
 
 
 #get the quote
-apple_quote2 = web.DataReader('AAPL', data_source='yahoo', start='2020-08-28', end='2020-08-28')
+apple_quote2 = web.DataReader('AAPL', data_source='yahoo', start='2020-09-04', end='2020-09-04')
 print(apple_quote2['Close'])
 
