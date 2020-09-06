@@ -16,7 +16,7 @@ I am using the past 60 days stock price values for the LSTMs.
 *Snapshot of data*
 The missing dates are Saturdays, Sundays or Public Holidays
 
-![Screenshot 2020-08-30 at 2 00 44 PM](https://user-images.githubusercontent.com/22790699/91654888-45966900-eaca-11ea-935d-44f3ab60d9c3.png)
+![Screenshot 2020-09-05 at 1 42 45 PM](https://user-images.githubusercontent.com/22790699/92319188-99a5ce00-f033-11ea-98be-ee36f6e3d130.png)
 
 ![Screenshot 2020-08-30 at 2 00 14 PM](https://user-images.githubusercontent.com/22790699/91654797-92c60b00-eac9-11ea-9500-51fa9d5d4d67.png)
 
