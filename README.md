@@ -27,11 +27,12 @@ The model's RSME value is **3.8** when the stock prices are in the range of 100+
 This RSME is a good value, considering the abnormal increase in AAPL stock buying due to COVID
 
 *Visualization of the model Predictions*
-![Screenshot 2020-08-30 at 2 01 37 PM](https://user-images.githubusercontent.com/22790699/91654992-116f7800-eacb-11ea-8a63-6a891de7fded.png)
+![Screenshot 2020-09-05 at 1 43 35 PM](https://user-images.githubusercontent.com/22790699/92319286-0620cd00-f034-11ea-9859-39068cacca1c.png)
 
+*Comparison between Predicted and Actual closing values*
 ![Screenshot 2020-08-30 at 2 01 49 PM](https://user-images.githubusercontent.com/22790699/91655020-55fb1380-eacb-11ea-8f89-f6c1481b63f4.png)
 
 ## Improving the accuracy- Next steps
 
-Add a Sentiment analysis of twitter feed
+- Add a Sentiment analysis of twitter feed (previous day's feed)
 
