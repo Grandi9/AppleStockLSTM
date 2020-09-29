@@ -11,6 +11,7 @@ I am using a Recurrent neural network called - LSTM to predict the stock price o
 I am using LSTM since it has Long term price dependencies.
 LSTM's are useful since we can give relevant weights to the important data in the past.
 I am using the past 60 days stock price values for the LSTMs.
+This has the data uptil September 3rd. For the updated version click on google collab link.https://colab.research.google.com/drive/1G0EKzr_LezsLmpQSxq1RuGE2bbxmyAOB?usp=sharing
 
 ## Input Data
 *Snapshot of data*
