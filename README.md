@@ -17,17 +17,20 @@ For the updated version click on google collab link.https://colab.research.googl
 *Snapshot of data*
 The missing dates are Saturdays, Sundays, or Public Holidays
 
-![Screenshot 2020-09-05 at 1 42 45 PM](https://user-images.githubusercontent.com/22790699/92319188-99a5ce00-f033-11ea-98be-ee36f6e3d130.png)
+![](Screenshots/Image1.png)
 
-![Screenshot 2020-09-05 at 1 42 36 PM](https://user-images.githubusercontent.com/22790699/92319267-db367900-f033-11ea-968c-3b56d616d69f.png)
+![](Screenshots/Image2.png)
 
 
 ## Model Prediction
 
 The model's RSME value is **1.7** when the stock prices are in the range of 100+.
+![](Screenshots/Image3.png)
 
 *Visualization of the model Predictions*
-![Screenshot 2020-09-05 at 1 43 35 PM](https://user-images.githubusercontent.com/22790699/92319286-0620cd00-f034-11ea-9859-39068cacca1c.png)
+
+![](Screenshots/Image4.png)
+
 
 
 ## Improving the accuracy- Next steps
