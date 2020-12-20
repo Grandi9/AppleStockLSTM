@@ -24,7 +24,7 @@ The missing dates are Saturdays, Sundays, or Public Holidays
 
 ## Model Prediction
 
-The model's RSME value is **3.8** when the stock prices are in the range of 100+.
+The model's RSME value is **1.7** when the stock prices are in the range of 100+.
 
 *Visualization of the model Predictions*
 ![Screenshot 2020-09-05 at 1 43 35 PM](https://user-images.githubusercontent.com/22790699/92319286-0620cd00-f034-11ea-9859-39068cacca1c.png)
