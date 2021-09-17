@@ -1,5 +1,5 @@
-# AppleStockLSTM
-Predicting AAPL stock price using LSTM
+# When to Buy $AAPL
+Predicting AAPL's stock price using LSTM
 
 The updated version takes into consideration of AAPL stock split - https://investor.apple.com/faq/default.aspx
 
