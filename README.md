@@ -21,6 +21,10 @@ The missing dates are Saturdays, Sundays, or Public Holidays
 
 ![](Screenshots/Image2.png)
 
+## Model
+- Reshape into a 3d (samples, time steps, and features)
+- Two dense layers
+- Adam optmizer better than gradient boosting ( learns the learning rates itself, on a per-parameter basis)
 
 ## Model Prediction
 
